@@ -1,0 +1,10 @@
+{
+    "sso.check.url": "https://cohesion2.regione.marche.it/SPManager/WAYF.aspx",
+    "sso.webCheckSessionSSO": "https://cohesion2.regione.marche.it/SPManager/webCheckSessionSSO.aspx",
+    "sso.additionalData": "http://127.0.0.1:8000/logout",
+    "site.URLLogin": "http://127.0.0.1:8000/callback",
+    "site.URLLogout": "http://127.0.0.1:8000/logout",
+    "site.IndexURL": "http://127.0.0.1:8000/",
+    "site.ID_SITO": "TEST",
+    "debug": true
+}
